@@ -1,4 +1,4 @@
-Data Breach App
+# Data Breach App
 
 This project was developed with the help of my friends and colleauges during a 24h Hackathon style competition
 called CyberHack. The main part was the integration of the Have I Been Pwned V3 api. Due to the short time
